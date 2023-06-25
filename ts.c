@@ -3,6 +3,6 @@
 int main()
 {
     printf( "hello!\n" );
-    return 999;
+    return 999000;
 }
     
